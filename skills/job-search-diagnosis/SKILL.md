@@ -1,6 +1,6 @@
 ---
 name: job-search-diagnosis
-description: Diagnose where a new grad's (or early-career) job search is stuck and what to do next. Use when someone says they are applying but getting no interviews, failing phone screens or onsites, stuck at final rounds, unsure whether to redo their resume/LinkedIn, wondering "what's wrong with my job search", or asks for a job-search check-up — in any language (e.g. 找工作卡住了, 投了很多没回音, 面试总挂, 就活がうまくいかない). Targets the US job market.
+description: Diagnose where a new grad's (or early-career) job search is stuck and what to do next. Use when someone says they are applying but getting no interviews, failing phone screens or onsites, stuck at final rounds, unsure whether to redo their resume/LinkedIn, wondering "what's wrong with my job search", or asks for a job-search check-up — in any language (e.g. 找工作卡住了, 投了很多没回音, 面试总挂, 就活がうまくいかない, 취업이 안 돼요, 서류에서 계속 떨어져요). Targets the US job market.
 ---
 
 # Job Search Diagnosis
@@ -18,7 +18,7 @@ Principles:
 
 ## Language
 
-Reply in the language the user writes in: Chinese → Chinese (match Simplified vs Traditional), Japanese → Japanese,
+Reply in the language the user writes in: Chinese → Chinese (match Simplified vs Traditional), Japanese → Japanese, Korean → Korean,
 anything else → that language. If unclear, use English. Keep job titles, resume bullets, and interview answers
 in English, because they go to US employers. Explain them in the user's language.
 

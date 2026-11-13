@@ -11,7 +11,7 @@ Stages:
 3. Can't close, or evaluating an offer
 4. Accepted: ramp-up plan
 
-It replies in the language you write in (English, 中文, 日本語, …) and targets the US job market.
+It replies in the language you write in (English, 中文, 日本語, 한국어, …) and targets the US job market.
 
 ## Install
 
