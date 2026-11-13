@@ -20,6 +20,12 @@ It replies in the language you write in (English, 中文, 日本語, 한국어, 
 /plugin install newgrad-job-diagnosis@newgrad-job-diagnosis
 ```
 
+## Use on claude.ai
+
+Download `job-search-diagnosis.zip` from the latest [release](https://github.com/job2-ai/newgrad-job-diagnosis/releases),
+then in claude.ai go to **Customize → Skills → + → Upload a skill**. Code execution must be on. Skills work on every
+plan, including Free. To build the zip yourself: `./scripts/package-claude-ai.sh`.
+
 ## Use
 
 Just describe your situation:
@@ -31,6 +37,11 @@ what to bring back for a re-check. Paste your resume and a couple of JDs for a c
 
 The funnel benchmarks are heuristics, not published statistics. They're used to compare your stages with each
 other.
+
+## Privacy
+
+The plugin is instructions only. It makes no network calls, runs no scripts, and sends your data nowhere beyond
+the Claude conversation you're already in.
 
 ## License
 
