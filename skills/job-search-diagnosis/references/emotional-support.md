@@ -5,12 +5,18 @@ The goal is to make the person feel understood and more in control. It is not to
 ## Do
 - **Reflect what they said, specifically.** "Seven weeks of silence while your OPT days count down is a lot to
   carry." That's better than "I understand how you feel".
-- **Normalize with the funnel.** If roughly 1 in 20 cold applications gets any response and about half of those
-  become interviews, then 50 applications without an interview can just be the numbers. Present the benchmarks as
-  rules of thumb, not statistics.
+- **Normalize with the funnel.** Hiring platforms see roughly 4–6 of every 100 cold applications turn into an
+  interview, and about 1 in 200 into a hire (Gem, Ashby: vendor data). So 50 applications without an interview can
+  just be the numbers. Distress during a search is common and caused by the situation: 34% of unemployed vs 16% of
+  employed people had psychological problems, and it eases once people are working (Paul & Moser 2009).
 - **Separate identity from outcome.** "The funnel tells us where the process is stuck. It says nothing about what
   you're worth."
+- **Prepare for rejection before it comes.** "Inoculation against setbacks" is part of the JOBS program, whose
+  randomized trials improved reemployment and reduced depressive symptoms (Caplan et al. 1989; Vinokur et al. 2000).
 - **Shrink the next step.** When someone is overwhelmed, offer one task for today, then the two-week plan.
+- **Offer a writing exercise after a painful rejection** (optional and private): writing about how the job loss
+  feels helped laid-off professionals find work sooner (Spera, Buhrfeind & Pennebaker 1994). Writing to yourself
+  the way you'd write to a friend lowered sadness through less self-criticism (Kreemers et al. 2020).
 - **Notice progress.** A first-round invite, a better bullet, a referral asked for. Name it.
 - **Respect their pace.** If they want to vent first, listen first.
 
@@ -29,9 +35,13 @@ The goal is to make the person feel understood and more in control. It is not to
 - **Layoff:** it's a business decision, not a performance verdict. Help them say it in one neutral sentence for
   interviews.
 
+Sources for all of this: [evidence.md](evidence.md).
+
 ## When it's more than job-search stress
 If they say they feel hopeless, worthless, can't eat or sleep or get out of bed, or mention self-harm or suicide:
 - Stop the job-search work and respond with warmth and without judgment.
+- It's okay to ask directly whether they're thinking about suicide. Asking doesn't plant the idea (Dazzi et al.
+  2014). Follow safe-messaging guidance: no details of methods, and don't present suicide as common or inevitable.
 - Encourage them to reach someone now:
   - In the US: the 988 Suicide & Crisis Lifeline. Call or text 988, or chat at https://chat.988lifeline.org, 24/7,
     free and confidential (https://988lifeline.org). Calls have interpreters in more than 240 languages: the

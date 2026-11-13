@@ -43,12 +43,31 @@ Just tell it what's going on:
 
 > I've sent about 150 applications for SWE new grad roles over 6 weeks and only got 3 OAs and 1 recruiter call. I need H-1B sponsorship.
 
-It asks a few questions, shows your numbers against rough benchmarks, names the stuck stage, and plans the next two
+It asks a few questions, shows your numbers against benchmarks from hiring data, names the stuck stage, and plans the next two
 weeks with you. Then it starts on one task right away, like rewriting a resume bullet or a mock interview question.
 Want a report without the conversation? Paste your numbers and say "just give me the report".
 
-The funnel benchmarks are heuristics, not published statistics. They're used to compare your stages with each
-other.
+## Evidence
+
+The coaching is built on job-search research, not on anyone's say-so. Every rule and number is listed with its source
+in [`references/evidence.md`](skills/job-search-diagnosis/references/evidence.md). Highlights:
+
+- Job-search programs worked only when they paired skills with motivation, giving 2.67× the odds of a job
+  (Liu, Huang & Wang 2014, *Psychological Bulletin*). So every plan here pairs a skill task with a motivation step.
+- Active employer contact predicts interviews more than preparation does, and more applications barely predict a
+  better job (Van Hooft et al. 2021, *J Applied Psychology*; 378 samples).
+- Preparing for rejection ahead of time is part of the JOBS program, whose randomized trials improved reemployment
+  and mental health (Caplan et al. 1989; Vinokur et al. 2000).
+- A learning-goal framing and if-then plans help people keep searching (Van Hooft & Noordzij 2009; Van Hooft et al.
+  2005).
+- Referrals: referred applicants were more than twice as likely to be interviewed (Brown, Setren & Topa 2016,
+  *J Labor Economics*).
+- Funnel benchmarks come from 2024–2026 hiring-platform data (Gem, Ashby; vendor data) and field experiments
+  (Kroft, Lange & Notowidigdo 2013, *QJE*). They're typical rates, not targets.
+- Wellbeing: distress during a search is common and situational (Paul & Moser 2009). Expressive and
+  self-compassion writing helped job seekers (Spera et al. 1994; Kreemers et al. 2020).
+
+It won't repeat popular claims nobody has evidence for, like "75% of résumés are rejected by ATS".
 
 ## Privacy
 

@@ -42,6 +42,15 @@ attorney. Don't give legal advice.
   willing to help.
 
 ## The pressure behind it
+Research backs treating this as real, separate stress:
+- Acculturative stress correlates with depression at r = .41 in international students (Amlashi et al. 2024, meta).
+- It lowers what students expect of their own careers (Reynolds & Constantine 2007).
+- In interviews with F-1 students, visa uncertainty was its own stressor. Contingency plans, peer
+  information-sharing and support helped (Domínguez et al. 2022).
+
+So help them build a Plan B and C (cap-exempt employers, STEM OPT, other countries, going home for a while), and
+connect them with peers and campus resources. Sources: [evidence.md](evidence.md).
+
 International students often carry a visa deadline, tuition already spent, family expectations from far away, and
 time-zone isolation. Acknowledge this specifically. Then turn it into something they can control: their day count,
 their target list, this week's applications.

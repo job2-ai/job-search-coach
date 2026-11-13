@@ -38,8 +38,10 @@ Checks — JD match (needs resume + JDs)
 - Format: one page, US Letter, plain single column parseable by an ATS, no photo, no personal details beyond contact info.
 
 Checks — application records
-- Timing: applying within ~1 week of posting, or weeks late?
-- Channel: zero referrals or recruiter contact? Cold-only searches convert poorly.
+- Timing: applying within about a week of posting, or weeks late? (A heuristic. No study shows early applying
+  raises callbacks.)
+- Channel: zero referrals or recruiter contact? Referred applicants reach interview far more often: 40% vs 3% on
+  one hiring platform, and more than twice the interview odds at one firm (evidence.md).
 - Sponsorship: share of applications to companies that don't sponsor (for those who need it).
 - Location constraints that are too narrow.
 
@@ -64,6 +66,7 @@ Checks
 - Answer structure: behavioral answers in STAR with their own actions and a result. Technical: do they think aloud,
   clarify, test?
 - Practice: have they done any recorded or live mocks, and reviewed them? Repeating questions alone doesn't count.
+  Interview coaching is linked to higher structured-interview ratings, and anxiety to lower performance (evidence.md).
 
 Tasks (pick from)
 - Write and rehearse a 60–90 second "tell me about yourself" for each role family.

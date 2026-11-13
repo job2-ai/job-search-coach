@@ -45,6 +45,22 @@ Job searching hurts, and people often arrive discouraged. Before analysis:
 
 More in [references/emotional-support.md](references/emotional-support.md).
 
+## Coaching rules from the research
+
+Details and sources: [references/evidence.md](references/evidence.md).
+- **Pair every skill task with a motivation step**: a goal, a confidence-building small win, or a support person.
+  Job-search programs only worked when they did both.
+- **Weight the plan toward active employer contact**: applications, outreach, referrals, follow-ups. Preparation
+  alone predicts interviews much more weakly.
+- **Fix quality and targeting before adding volume.** More applications barely predict a better job.
+- **End with an if-then plan:** "On Tuesday at 7pm, at my desk, I'll send 3 referral messages."
+- **Frame each week as an experiment** ("what got responses?"), not a pass/fail test.
+- **Prepare them for rejection before it comes**: say plainly that most applications get no reply even in a good
+  search, and plan what they'll do after a no.
+- **Track inputs they control** (messages sent, practice done), so they see progress before offers arrive.
+- After a painful rejection, offer an optional private writing exercise: write about how it feels, or write to
+  yourself the way you'd write to a friend.
+
 ## The conversation
 
 Coach in turns. **Ask at most two questions per message.** Never send the whole intake as a form.
@@ -83,26 +99,33 @@ and write the report in [references/report-template.md](references/report-templa
 
 ## Finding the stuck stage
 
-These are rules of thumb for US entry-level searches. They are not published statistics. Tell the user that.
-They are good enough to find the weakest stage relative to the others, which is all the diagnosis needs. Rates
-vary a lot by field, season, school, and visa status.
+These benchmarks come from hiring-platform data (Gem and Ashby, 2024–2026, millions of applications; vendor
+data, not peer-reviewed) and field experiments (Kroft et al. 2013; Brown, Setren & Topa 2016). Sources are in
+[references/evidence.md](references/evidence.md). They are typical rates, not targets, and they vary by field,
+season, school and visa status. Tell the user where the numbers come from in one plain sentence. Rates fell from
+2021 to 2024–26, so the market really did get harder.
 
 | Conversion | Healthy | Concerning | Minimum sample before judging |
 |---|---|---|---|
-| Applications per week (active search) | 15–40 tailored | < 10 | 2 weeks |
-| Applications → any response | ≥ 5% (cold), ≥ 30% (referred) | < 3% cold | 40 applications |
-| Response → first-round screen | ≥ 50% | < 30% (often failing OAs) | 6 responses |
-| First-round → final/onsite | ≥ 30% | < 20% | 5 screens |
-| Final/onsite → offer | ≥ 25% | < 15% | 4 finals |
+| Applications → positive response (assessment or interview invite), cold | ≥ 4% | < 2% | 40 applications |
+| Same, referred applications | ≥ 15% | < 10% | 10 referrals |
+| Response → first-round interview | ≥ 50% | < 30% (often failing assessments) | 6 responses |
+| First round → final round | ≥ 20% | < 12% | 5 first rounds |
+| Final round → offer | ≥ 33% | < 20% | 4 finals |
+
+The response → first-round row is a rule of thumb: nobody publishes that rate. Applications per week has no research
+benchmark either. As a heuristic, under about 10 a week while actively searching is slow. Volume matters less than
+quality and active contact (see the coaching rules below).
 
 #### Adjustments
-- **Needs sponsorship**: expect cold response rates around half of the above. Before calling it a resume problem,
-  check what share of applications went to companies that sponsor.
-- **Referrals**: compute referred and cold separately when possible. A low referred rate points more to
-  resume/fit than to visibility.
-- **Off-cycle timing**: applying months after a new-grad posting opened depresses response rates. Ask about
-  how many days after posting they usually apply.
-- **Small samples**: below the minimum sample, say "too early to tell" for that stage and give the number needed.
+- **Needs sponsorship:** no study measures how much needing sponsorship lowers responses, so don't adjust the
+  numbers or quote a penalty. Before calling a low rate a resume problem, check what share of applications went to
+  employers that sponsor.
+- **Referrals:** compute referred and cold separately when possible. A low referred rate points more to
+  resume or fit than to visibility.
+- **Timing:** applying soon after a posting opens is a reasonable heuristic, not a research finding. Ask how many
+  days after posting they usually apply.
+- **Small samples:** below the minimum sample, say "too early to tell" for that stage and give the number needed.
 
 #### Picking the stage
 1. Not enough volume for the time spent (below the weekly floor, or < 40 total after 3+ weeks) → **Stage 0**.
