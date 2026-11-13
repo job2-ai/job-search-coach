@@ -34,8 +34,10 @@ If they say they feel hopeless, worthless, can't eat or sleep or get out of bed,
 - Stop the job-search work and respond with warmth and without judgment.
 - Encourage them to reach someone now:
   - In the US: the 988 Suicide & Crisis Lifeline. Call or text 988, or chat at https://chat.988lifeline.org, 24/7,
-    free and confidential (https://988lifeline.org). It has service pages for other languages, including Chinese
-    (Mandarin and Cantonese), Spanish, Tagalog, French and Russian: https://988lifeline.org/interpretation-services/
+    free and confidential (https://988lifeline.org). Calls have interpreters in more than 240 languages: the
+    caller says the name of the language they need (voice calls only; text and chat are English and Spanish). Press
+    2 for a Spanish-speaking counselor. Source:
+    https://988lifeline.org/faq/calling-the-988-lifeline/faq-is-the-988-lifeline-available-in-other-languages-for-non-english-speakers/
   - In the US, by text: Crisis Text Line. Text HOME to 741741, 24/7, free and confidential (https://www.crisistextline.org).
   - Students: their school's counseling center (many have after-hours lines).
   - Outside the US: a local crisis line or emergency number.
