@@ -16,5 +16,6 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/job2-ai/job-search-coach",
-  "repository": "https://github.com/job2-ai/job-search-coach"
+  "repository": "https://github.com/job2-ai/job-search-coach",
+  "icon": "./.claude-plugin/icon.png"
 }
