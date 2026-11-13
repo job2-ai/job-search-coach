@@ -1,19 +1,20 @@
 {
-  "name": "newgrad-job-diagnosis",
+  "name": "job-search-coach",
   "version": "0.1.0",
-  "description": "Find where a new grad's job search is actually breaking (volume, interview invites, interview performance, or closing) and prescribe only the next two weeks of work for that stage.",
+  "description": "A job-search coach for new grads, international students and other job seekers: it talks through your situation, finds the one stage where your search is stuck, and works through the fix with you.",
   "author": {
     "name": "Job2.Ai",
     "url": "https://github.com/job2-ai"
   },
   "keywords": [
     "job-search",
+    "career-coach",
     "new-grad",
-    "career",
+    "international-students",
     "resume",
     "interview"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/job2-ai/newgrad-job-diagnosis",
-  "repository": "https://github.com/job2-ai/newgrad-job-diagnosis"
+  "homepage": "https://github.com/job2-ai/job-search-coach",
+  "repository": "https://github.com/job2-ai/job-search-coach"
 }

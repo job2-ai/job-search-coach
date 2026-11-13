@@ -1,5 +1,5 @@
 #!/bin/sh
-# Builds dist/job-search-diagnosis.zip for claude.ai (Customize > Skills > Upload a skill).
+# Builds dist/job-search-diagnosis.zip (the job-search-coach skill) for claude.ai (Customize > Skills > Upload a skill).
 # claude.ai needs the skill folder at the zip's root; a bare SKILL.md there isn't recognized.
 set -e
 cd "$(dirname "$0")/.."

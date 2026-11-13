@@ -1,16 +1,16 @@
 {
-  "name": "newgrad-job-diagnosis",
+  "name": "job-search-coach",
   "owner": {
     "name": "Job2.Ai"
   },
   "metadata": {
-    "description": "Job2.Ai's job-search diagnosis plugin for new grads."
+    "description": "Job2.Ai's job-search coaching plugin."
   },
   "plugins": [
     {
-      "name": "newgrad-job-diagnosis",
+      "name": "job-search-coach",
       "source": "./",
-      "description": "Diagnose which stage of a new grad's job search is stuck and what to do next."
+      "description": "A career coach that finds where your job search is stuck and works through the fix with you."
     }
   ]
 }
