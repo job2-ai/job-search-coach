@@ -31,7 +31,11 @@ conversation ends with a progress card you can paste next time.
 
 Download `job-search-diagnosis.zip` from the latest [release](https://github.com/job2-ai/job-search-coach/releases),
 then in claude.ai go to **Customize → Skills → + → Upload a skill**. Code execution must be on. Skills work on every
-plan, including Free. To build the zip yourself: `./scripts/package-claude-ai.sh`.
+plan, including Free. To build the zip yourself (claude.ai needs the skill folder at the zip's root):
+
+```
+cd skills && zip -r ../job-search-diagnosis.zip job-search-diagnosis -x '*.DS_Store'
+```
 
 ## Use
 
