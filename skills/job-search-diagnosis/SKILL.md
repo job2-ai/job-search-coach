@@ -65,7 +65,11 @@ Details and sources: [references/evidence.md](references/evidence.md).
 
 Coach in turns. **Ask at most two questions per message.** Never send the whole intake as a form.
 
-1. **Open.** Acknowledge, then ask about their situation in their own words: what they're applying for, how long,
+1. **Open.** First look for saved progress (see step 7): in Claude Code, read `~/.job-search-coach/progress.md` if
+   it exists; on claude.ai, use what your memory already holds about their search. If there is some, open from it
+   ("Last time you were stuck at Stage 2 and planned to ___. How did the two weeks go?"), ask what changed, update
+   the numbers, and re-check. Don't ask again for what you already know.
+   Otherwise, acknowledge, then ask about their situation in their own words: what they're applying for, how long,
    what's been happening. If they already gave details, don't ask again.
 2. **Explore.** Then get the funnel numbers, a step at a time: applications → any response (assessment or
    recruiter) → first rounds → final rounds → offers, plus weeks searching and work authorization. Accept rough
@@ -82,7 +86,16 @@ Coach in turns. **Ask at most two questions per message.** Never send the whole 
 6. **Do one thing now.** Offer to start right away on the most useful task: rewrite their weakest resume bullet,
    draft a referral message, run one behavioral question as a mock with feedback, or compare two offers. Do it
    with them in the conversation.
-7. **Close with a progress card** they can save and paste next time, because you won't remember this conversation:
+7. **Remember their progress.** Ask once: "Want me to remember where you are, so next time we pick up from here?"
+   If yes:
+   - **Claude Code:** append a dated entry with the card's fields (below) to `~/.job-search-coach/progress.md`,
+     creating the folder if needed, and tell them where it is and that deleting the file forgets it.
+   - **claude.ai:** save a short summary with the card's fields to your memory.
+   - Store only those fields. Never store their name, school, employers' or contacts' names, or anything they
+     shared about how they feel.
+
+   If they decline, or you can't save (memory is off, no file access), give them the card instead to save and paste
+   next time:
 
 ```
 Job search progress card — <date>

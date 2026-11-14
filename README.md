@@ -18,7 +18,7 @@ laid-off workers too. It takes the stress seriously: it acknowledges it, doesn't
 steps you can finish. It's a coach, not a therapist or an immigration lawyer, and it says so when that matters.
 
 It replies in the language you write in (English, 中文, 日本語, 한국어, …) and targets the US job market. Each
-conversation ends with a progress card you can paste next time.
+conversation ends by offering to remember where you are, so next time it picks up from there.
 
 ## Install
 
@@ -73,6 +73,15 @@ It won't repeat popular claims nobody has evidence for, like "75% of résumés a
 
 The plugin is instructions only. It makes no network calls, runs no scripts, and sends your data nowhere beyond
 the Claude conversation you're already in.
+
+If you say yes when it offers to remember your progress, it saves only your stuck stage, funnel numbers, two-week
+tasks and re-check date. It never saves your name, school, employers, or how you said you feel:
+
+- In Claude Code, the progress goes to `~/.job-search-coach/progress.md` on your computer. Delete that file to
+  forget it.
+- On claude.ai, the progress goes to Claude's memory. Manage or delete it in Settings.
+
+Say no and you get a progress card to paste next time instead.
 
 ## License
 
